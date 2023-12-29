@@ -284,7 +284,7 @@ void sf_free(void *ptr);
 
 # Statistics Functions
 
-Besides the allocation functions discussed above, you are to implement the
+Besides the allocation functions discussed above, I have implemented the
 following two functions that return statistics about the memory utilization
 of the allocator:
 
